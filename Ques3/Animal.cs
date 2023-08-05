@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ques3
+{
+    internal class Animal
+    {
+        public string Name { get; set; }
+
+        public Animal(string name)
+        {
+            Name = name;
+        }
+
+        public void SayHello()
+        {
+            Console.WriteLine($"{Name} says hello!");
+        }
+    }
+}

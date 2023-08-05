@@ -1,0 +1,8 @@
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Buoi4\Ques4\bin\Debug\Ques4.exe.config
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Buoi4\Ques4\bin\Debug\Ques4.exe
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Buoi4\Ques4\bin\Debug\Ques4.pdb
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Buoi4\Ques4\obj\Debug\Ques4.csproj.AssemblyReference.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Buoi4\Ques4\obj\Debug\Ques4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Buoi4\Ques4\obj\Debug\Ques4.csproj.CoreCompileInputs.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Buoi4\Ques4\obj\Debug\Ques4.exe
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Buoi4\Ques4\obj\Debug\Ques4.pdb
